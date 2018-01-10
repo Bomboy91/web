@@ -1,21 +1,29 @@
 body {
 	background-color: rgba(251, 242, 227, 0.5);
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
 }
 
-.logo {
+.header {
+	background-image: url("Vaping.jpg");
+	background-repeat: no-repeat;
+	margin-top: 0px;
+	width: 100%;
+	height: 600px;
+}
+.title {
 	text-align: center;
+	font-size: 80px;
+	color: white;
 }
-.logo img {
-	max-width: 30%;
-	max-height: auto;
-}
+
 ul {
 	font-family: Impact, Charcoal, sans-serif;
 	list-style-type: none;
-	padding: 0;
-	margin: 0;
-	margin-top: 10px;
-	background-color: #808080;
+	margin-top: 450px;
+	background-color: rgba(200, 200, 200, 0.2);
 	overflow: auto;
 	width: auto;
 }
@@ -64,15 +72,15 @@ ul {
 	font-family: modern, monospace;
 	background-color: #808080;
 	color: white;
+	min-width: 200px;
 }
 
 .img {
-	border: solid 0.3px rgba(145,145,145,0.5); 
 	width: 400px;
 	height: 400px;
 	text-align: center;
 	font-family: modern, monospace;
-	margin: 30px;
+	margin: 20px;
 	padding: 5px;
 }
 img {
@@ -98,5 +106,7 @@ img {
 .article {
 	background-color: white;
 	margin: 5% 10% 5% 10%;
-	border: solid 0.3px rgba(145,145,145,0.5); 
+	border: solid 0.3px rgba(145,145,145,0.3);
+	min-width: 400px;
+	overflow: hidden;
 }
