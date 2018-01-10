@@ -1,0 +1,8 @@
+Comme changement j'ai effectuer une suppression de la barre latéral d'origine, l'ajouts de mes pages, 
+ajout d'une photo de fond, ajout d'un pied de page avec le calendrier et le formulaire de contact, et 
+création de contenues avec un paragraphe et une galerie de quatre photos par page.
+Toutes le modification de style je l'ai ai changé dans Apparence -> Personnaliser. Les ajouts et peronnalisations
+de page on été effectuer dans l'onglet page.
+J'ai changer le code css pour affiché une plus grande partis de mon image: j'ai trouvé la classe correspondant a mon image avec "inspécté element" puis dans l'éditeur j'ai rajouté: margin-bottom: 250px;
+Le thème calendrier choisi est Booking Calendar
+J'ai choisis se theme pour mon site car j'ai trouver qu'il etais adapté au résultas souhaité. 
